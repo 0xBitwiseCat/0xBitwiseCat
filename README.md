@@ -9,8 +9,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=0xBitwiseCat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBitwiseCat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jeysson24) 
+# Projects
+`#0969DA` ![SAM'S BUDDY] (https://play.google.com/store/apps/details?id=com.liater.samsbuddy2d&hl=es_CO) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jeysson24) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
