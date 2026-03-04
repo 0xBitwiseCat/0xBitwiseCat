@@ -10,7 +10,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBitwiseCat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Projects
-![SAM'S BUDDY](https://play.google.com/store/apps/details?id=com.liater.samsbuddy2d&hl=es_CO) 
+![SAM'S BUDDY](https://play.google.com/store/apps/details?id=com.liater.samsbuddy2d&hl=es_CO)
+> [!NOTE]
+> A puzzle game developed using Unity 2D based on Energy Assets Management
+
+
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jeysson24) 
 
