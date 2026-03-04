@@ -9,7 +9,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=0xBitwiseCat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBitwiseCat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Projects
+# 🦊 Projects
 ![SAM'S BUDDY](https://play.google.com/store/apps/details?id=com.liater.samsbuddy2d&hl=es_CO)
 > [!NOTE]
 > A puzzle game developed using Unity 2D based on Energy Assets Management
