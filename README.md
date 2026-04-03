@@ -15,7 +15,7 @@
 > A puzzle game developed using Unity 2D based on Energy Assets Management
 > (Made for LIATER UNAL as an Auxiliar Student)
 
-> ![Analizador de rayos]
+![Analizador de rayos]
 > [!NOTE]
 > A Full-Stack web App with backend made with FastAPI and frontend made with HTML/CSS/JS
 > Includes geospatial data processing, multithread data processing, data analysis and dynamic rendering
