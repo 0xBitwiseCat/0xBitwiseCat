@@ -13,7 +13,13 @@
 ![SAM'S BUDDY](https://play.google.com/store/apps/details?id=com.liater.samsbuddy2d&hl=es_CO)
 > [!NOTE]
 > A puzzle game developed using Unity 2D based on Energy Assets Management
+> (Made for LIATER UNAL as an Auxiliar Student)
 
+> ![Analizador de rayos]()
+> [!NOTE]
+> A Full-Stack web App with backend made with FastAPI and frontend made with HTML/CSS/JS
+> Includes geospatial data processing, multithread data processing, data analysis and dynamic rendering
+> (Made for LIATER UNAL as an Auxiliar Student)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jeysson24) 
