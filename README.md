@@ -17,7 +17,7 @@
 
 ![Analizador de rayos (in development)](null)
 > [!NOTE]
-> A Full-Stack web App with backend made with FastAPI and frontend made with HTML/CSS/JS
+> A Web App with backend made with FastAPI and frontend made with HTML/CSS/JS
 > Includes geospatial data processing, multithread data processing, data analysis, memory management,
 > data streaming, file handling and dynamic rendering.
 > (Made for LIATER UNAL as an Auxiliar Student)
