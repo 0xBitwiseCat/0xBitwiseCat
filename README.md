@@ -15,7 +15,7 @@
 
 
 # 🦊 Projects
-## ![SAM'S BUDDY](https://play.google.com/store/apps/details?id=com.liater.samsbuddy2d&hl=es_CO)
+## ![🎮️ SAM'S BUDDY](https://play.google.com/store/apps/details?id=com.liater.samsbuddy2d&hl=es_CO)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 > [!NOTE]
 > A puzzle game that teach about Energy Assets Management on Electrical Grids.
