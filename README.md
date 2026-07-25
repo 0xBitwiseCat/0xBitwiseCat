@@ -21,7 +21,7 @@
 > A puzzle game that teach about Energy Assets Management on Electrical Grids.
 > (Made for LIATER UNAL as an Auxiliar Student)
 
-## ![Analisis de Rayos](null)
+## ⚡ Análisis de Rayos 🔒 *(Private Repository)*
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 > [!NOTE]
 > A Full Web Application (Frontend + Backend + DB) that includes:
@@ -30,7 +30,7 @@
 > dynamic rendering and code compilation (.EXE generation).
 > (Made for LIATER UNAL as an Auxiliar Student)
 
-## ![Ponghi (in development)](null)
+## 🌐 Ponghi 🔒 *(In Development)*
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 > [!NOTE]
 > A Full Web Application (Frontend + Backend + DB) that includes:
